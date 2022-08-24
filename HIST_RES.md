@@ -1,4 +1,11 @@
 - If request success (Result = 1)
 	- Pass data to onSuccess
+	- Clear time out for reqInfoMap
 	- If message of data is 'DONE'
-	
+		- Process and store data, multicast event
+			- INTRADAY_1s
+			- INTRADAY_30m
+			- GET_HIST_STOCK
+			- MDDS|I
+			- MDDS|EP
+- Else request fail, pass data to onFail	

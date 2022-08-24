@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ba7a51d00ccfe955",
+        "id": "d1b232e468519c85",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Altisss/Background_Run.md",
+            "file": "socket_StartListener_Trading.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "022a3e244d7b2a40",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RES_MSG.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altisss/Background_Run.md",
+                "file": "RES_MSG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altisss/Background_Run.md",
+                "file": "RES_MSG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altisss/Background_Run.md"
+                "file": "RES_MSG.md"
               }
             }
           }
@@ -129,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba7a51d00ccfe955",
+  "active": "022a3e244d7b2a40",
   "lastOpenFiles": [
-    "socket_StartListener_Stream.md",
-    "Altisss/Background_Run.md",
+    "SYS_MSG.md",
+    "RES_MSG.md",
     "socket_StartListener_Trading.md",
-    "Altisss/DOCS.md",
-    "HIST_RES.md",
-    "SUB_RES.md",
-    "onFOSStream.md",
-    "UNSUB_RES.md",
-    "altisss/ALT-WebClientV3/src/App.js.md",
-    "disconnect.md"
+    "disconnect.md",
+    "[.md",
+    "connect_error.md",
+    "socket_StartListener_Trading_Connect.md",
+    "Connect.md",
+    "Altisss/Background_Run.md",
+    "socket_StartListener_Stream.md"
   ]
 }

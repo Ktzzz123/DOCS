@@ -1,16 +1,15 @@
 
 
-Table of content:
-# Header
-[Header.md](Header.md)
-# MenuFunctionComponent
-[MenuFunctionComponent](Menu_Function_Component.md)
-# content
-[PriceBoard_Content](PriceBoard_Content.md)
-	[Chart Group](Chart_Group.md)
-	[PriceBoard Container](PriceBoardContainer.md)
-# QuickOrder
-[QuickOrder](QuickOrder.md)
-# workFlow
-[BackGround run](Background_Run.md)
+# Table of content:
+# View
+## Homepage
+### [Header.md](Header.md)
+### [Menu](Menu.md)
+### [Chart Index](Chart_Index.md)
+###  [Table Index Overview](Table_Index_Overview)
+###  [Table PriceBoard](Table_PriceBoard.md)
+### [Footer](Footer.md)
+==[PriceBoard_Content](PriceBoard_Content.md)
+
+# [BackGround run](Background_Run.md)
 

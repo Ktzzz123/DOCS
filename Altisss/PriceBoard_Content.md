@@ -1,4 +1,4 @@
 ![[PriceBoard_content.png]]
 
-![Chart Group](Chart_Group.md)
-![PriceBoard Container](PriceBoardContainer.md)
+![Chart Group](Chart_Index.md)
+![PriceBoard Container](Table_PriceBoard.md)

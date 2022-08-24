@@ -1,0 +1,3 @@
+- If type of data is 'string' Parse server message to JSON type and assign it to mssg value.
+- If code of data is 'XXXXX6', set anotherLoginFlag equal to true.
+- Multicast RxJs event with type is MESSAGE_SYSTEM and data is mssg

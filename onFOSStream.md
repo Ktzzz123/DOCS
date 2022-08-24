@@ -11,4 +11,4 @@
 	- Assign value for chart
 - Show data
 - Update data to global store
-- 
+- Process and store data

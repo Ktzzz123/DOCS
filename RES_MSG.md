@@ -1,0 +1,1 @@
+Receive normal response of server.

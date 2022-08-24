@@ -8,7 +8,7 @@
 			- If client connected to server, return and warning
 			- Set up connection: get URL of specific company base on active code saved in global service.
 			- connect to socket server base on URL already got.
-			- [socket StartListener Stream](socket_StartListener_Stream)
+			- [socket StartListener Stream](socket_StartListener_Stream.md)
 		
 			==[Link code](altisss\ALT-WebClientV3\src\utils\service\socket_service.js)==
 		2. setNewConnectionTrading

@@ -1,0 +1,3 @@
+- Reset isInternetReachable incase of NetInfo wrong checking
+- Reconnect and request user relogin if status of user is 'pre-login'
+- check if this is the first time user connect, set value first_time_connect to true and multicast 'CONNECT_TRADING' event
