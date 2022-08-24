@@ -1,0 +1,5 @@
+- call reSubAllWhenReconnectMarket function to resubscribe all stock exist when user reconnect, but in this case. User connect the first time so it wont do anything.
+- ![[ResubAllWhenReconnectMarket.png]]
+ - re-set isInternetReacgable incase of NetInfo library wrong checking
+- if lastConnectStatus is 'pre-relogin',  request user relogin.
+- if trade_connect_first is false, multicaste RxJS event 'CONNECT_TRADING'. if not, multicaste RxJS event 'RECONNECT_TRADING'

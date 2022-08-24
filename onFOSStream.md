@@ -1,0 +1,14 @@
+- Declare a nextTimeServer variable
+- If topic of data is 'CLEAR_ALL', reser chart data.
+- Else if topic of data is 'EXCHANGE_TIME'
+	- Try to check time format, if it true, set netTimeServer is equal to client time, if it not, return. 
+- If currentTimeServer isn't exist
+	- Assign nextTimeServer to currentTimeServer 
+	- Multicast event 'EXCHANGE_TIME' and return
+- Multicast event 'EXCHANGE_TIME'
+- If nextTimeServer is not equal to currentTimeServer
+	- Assign nextTimeServer to currentTimeServer
+	- Assign value for chart
+- Show data
+- Update data to global store
+- 

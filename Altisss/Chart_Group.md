@@ -1,5 +1,5 @@
-![[Pasted image 20220823143159.png]]
+![[Chart_Group.png]]
 HighChartIntraday
-![[Pasted image 20220823143213.png]]
+![[High_Chart_In_Trade_Day.png]]
 	-IndexOverView
-	![[Pasted image 20220823143233.png]]
+	![[Index_Overview.png]]
