@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6f296195cc20f1",
+        "id": "9eea21513ca2701e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Altisss/DOCS.md",
+            "file": "Altisss Web Trading/Common UI/Menu.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "15ec540be30874a0",
+        "id": "e808050098af2feb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Altisss/Components/HighChartInTraday.md",
-            "mode": "source",
+            "file": "Altisss Web Trading/main-docs.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altisss/Components/HighChartInTraday.md",
+                "file": "Altisss Web Trading/Common UI/Menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altisss/Components/HighChartInTraday.md",
+                "file": "Altisss Web Trading/Common UI/Menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altisss/Components/HighChartInTraday.md"
+                "file": "Altisss Web Trading/Common UI/Menu.md"
               }
             }
           }
@@ -140,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15ec540be30874a0",
+  "active": "07ad531e0d711a5e",
   "lastOpenFiles": [
-    "Altisss/Components/Market_view.md",
-    "Altisss/Components/Market_Deep.md",
-    "Altisss/Components/Cash_Flow_Chart.md",
-    "Altisss/Components/Cash_Flow_History.md",
-    "Altisss/Components/Market_Info.md",
-    "Altisss/Menu.md",
-    "Altisss/DOCS.md",
-    "Altisss/PriceBoard_Content.md",
-    "Altisss/Components/IndexOverview_Group.md",
-    "Altisss/assets/IndexOverviewGroup.png"
+    "Altisss Web Trading/main-docs.md",
+    "Altisss Web Trading/Common UI/Menu.md",
+    "Altisss Web Trading/Common UI/Header.md",
+    "Altisss Web Trading/Common UI/Footer.md",
+    "Altisss Web Trading/Pages/HomePage - Priceboard/Table_PriceBoard.md",
+    "Altisss Web Trading/Background/background_process.md",
+    "Cash_transaction.md",
+    "Altisss Web Trading/Components/Table_Index_Overview.md",
+    "Altisss Web Trading/Components/Market_Info.md",
+    "Altisss Web Trading/Pages/HomePage - Priceboard/PriceBoard_Content.md"
   ]
 }

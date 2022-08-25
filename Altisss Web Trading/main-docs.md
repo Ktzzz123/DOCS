@@ -1,9 +1,7 @@
-==note  to Dung: remember to make external link to path in highlight text ==
-
-
-# Table of content:
-# View
-## Homepage
+# Content of Document:
+## Pages
+View is describe all UI of product. Separate by route or modal dispatch content.  
+### Homepage - Priceboard
 ### [Header.md](Header.md)
 ### [Menu](Menu.md)
 ### [Chart Index](Chart_Index.md)
@@ -12,5 +10,7 @@
 ### [Footer](Footer.md)
 ==[PriceBoard_Content](PriceBoard_Content.md)
 
-# [BackGround run](Background_Run.md)
+## Background Process
+Every thing run on background
+### [Background Service](background_process.md)
 
