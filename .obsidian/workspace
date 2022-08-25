@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Altisss/Components/Market_Deep.md",
+            "file": "Altisss/Components/HighChartInTraday.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altisss/Components/Market_Deep.md",
+                "file": "Altisss/Components/HighChartInTraday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altisss/Components/Market_Deep.md",
+                "file": "Altisss/Components/HighChartInTraday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altisss/Components/Market_Deep.md"
+                "file": "Altisss/Components/HighChartInTraday.md"
               }
             }
           }
@@ -143,6 +143,7 @@
   "active": "15ec540be30874a0",
   "lastOpenFiles": [
     "Altisss/Components/Market_view.md",
+    "Altisss/Components/Market_Deep.md",
     "Altisss/Components/Cash_Flow_Chart.md",
     "Altisss/Components/Cash_Flow_History.md",
     "Altisss/Components/Market_Info.md",
@@ -150,7 +151,6 @@
     "Altisss/DOCS.md",
     "Altisss/PriceBoard_Content.md",
     "Altisss/Components/IndexOverview_Group.md",
-    "Altisss/assets/IndexOverviewGroup.png",
-    "Altisss/Components/getHistoryCashFlowResult.md"
+    "Altisss/assets/IndexOverviewGroup.png"
   ]
 }
