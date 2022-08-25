@@ -21,7 +21,7 @@
 				- Set up connection: get URL of company base on activeCode in (Global service)
 				- Connect to socket server base on URL.
 					- connect to server.
-					-  [socket StartListener Trading](socket_StartListener_Trading)		
+					-  [socket StartListener Trading](socket_StartListener_Trading.md)		
 		- get content for menu bar to global service
 		- read hotkeys, font family for each company
 		- Set font family for specific company

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f6a580f45438bab9",
+        "id": "5e6f296195cc20f1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Altisss/DOCS.md",
+            "file": "Altisss/PriceBoard_Content.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f751719fdb4ac2de",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altisss/DOCS.md",
+                "file": "Altisss/PriceBoard_Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altisss/DOCS.md",
+                "file": "Altisss/PriceBoard_Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altisss/DOCS.md"
+                "file": "Altisss/PriceBoard_Content.md"
               }
             }
           }
@@ -129,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6a580f45438bab9",
+  "active": "07ad531e0d711a5e",
   "lastOpenFiles": [
-    "Altisss/Background_Run.md",
-    "Altisss/DOCS.md",
-    "NTF_MSG.md",
-    "socket_StartListener_Trading.md",
-    "SYS_MSG.md",
-    "RES_MSG.md",
-    "disconnect.md",
-    "[.md",
-    "connect_error.md",
-    "socket_StartListener_Trading_Connect.md"
+    "Altisss/Components/IndexOverview_Group.md",
+    "Altisss/assets/IndexOverviewGroup.png",
+    "Altisss/Components/Market_view.md",
+    "Altisss/Components/Market_Info.md",
+    "Altisss/Menu.md",
+    "Altisss/Components/Cash_Flow_History.md",
+    "Altisss/Components/getHistoryCashFlowResult.md",
+    "Altisss/assets/Cash_flow_history.png",
+    "Altisss/Components/Cash_Flow_Chart.md",
+    "Altisss/Components/Market_Deep.md"
   ]
 }
