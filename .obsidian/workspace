@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fa423c2839d8a318",
+        "id": "3947394102b70bca",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NormalOrder.md",
+            "file": "Altisss Web Trading/Components/StockExtend.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5,
-    "collapsed": true
+    "width": 204.5
   },
   "right": {
     "id": "f751719fdb4ac2de",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NormalOrder.md",
+                "file": "Altisss Web Trading/Components/StockExtend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NormalOrder.md",
+                "file": "Altisss Web Trading/Components/StockExtend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NormalOrder.md"
+                "file": "Altisss Web Trading/Components/StockExtend.md"
               }
             }
           }
@@ -129,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa423c2839d8a318",
+  "active": "3947394102b70bca",
   "lastOpenFiles": [
-    "Altisss Web Trading/Components/TradingViewComponent.md",
-    "NormalOrder.md",
+    "src/views/NormalOrder/index.js.md",
+    "Altisss Web Trading/Components/StockExtend.md",
+    "Altisss Web Trading/Components/NormalOrder.md",
     "Altisss Web Trading/Components/Stock_transaction.md",
     "Altisss Web Trading/Common UI/Menu.md",
+    "Altisss Web Trading/Components/TradingViewComponent.md",
+    "src/views/NormalOrder/main.js.md",
     "Altisss Web Trading/Components/Market_Info.md",
-    "Altisss Web Trading/Components/StockExtend.md",
     "Altisss Web Trading/Components/NormalOrderMain.md",
-    "NormalOrderMain.png",
-    "FinanceIndicator.png",
-    "Altisss Web Trading/Components/FinanceIndicator.md"
+    "Altisss Web Trading/assets/NormalOrderMain.png"
   ]
 }

@@ -1,6 +1,6 @@
-[NormalOrder](NormalOrder.md)
+If user logined, navigate to [NormalOrder](NormalOrder.md). if not, request user login.
 [Take profit, Stop loss Order](TakeProfitAndStopLoss.md)
-[Duplicate orders](AdvanceOrders)
+[Duplicate orders](AdvanceOrders.md)
 [Regular Order](RegularOrder)
 [Alert](Alert)
 [History Order](OrderInformation)
