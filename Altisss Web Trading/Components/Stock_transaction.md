@@ -1,5 +1,5 @@
-[Order](Order)
-[Take profit, Stop loss Order](TakeProfitAndStopLoss)
+[NormalOrder](NormalOrder.md)
+[Take profit, Stop loss Order](TakeProfitAndStopLoss.md)
 [Duplicate orders](AdvanceOrders)
 [Regular Order](RegularOrder)
 [Alert](Alert)

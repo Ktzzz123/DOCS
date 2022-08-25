@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1d6760d8de26add0",
+        "id": "fa423c2839d8a318",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Altisss Web Trading/Components/Stock_transaction.md",
+            "file": "NormalOrder.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "f751719fdb4ac2de",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altisss Web Trading/Components/Stock_transaction.md",
+                "file": "NormalOrder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altisss Web Trading/Components/Stock_transaction.md",
+                "file": "NormalOrder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altisss Web Trading/Components/Stock_transaction.md"
+                "file": "NormalOrder.md"
               }
             }
           }
@@ -128,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07ad531e0d711a5e",
+  "active": "fa423c2839d8a318",
   "lastOpenFiles": [
+    "Altisss Web Trading/Components/TradingViewComponent.md",
+    "NormalOrder.md",
+    "Altisss Web Trading/Components/Stock_transaction.md",
     "Altisss Web Trading/Common UI/Menu.md",
     "Altisss Web Trading/Components/Market_Info.md",
-    "Altisss Web Trading/Components/New_Event.md",
-    "Altisss Web Trading/main-docs.md",
-    "Altisss Web Trading/assets/Table_Foreigner_Trade.png",
-    "Altisss Web Trading/Components/Table_Foreigner_Trade.md",
-    "Altisss Web Trading/Components/Foreigner_trade_Layout.md",
-    "Altisss Web Trading/Components/HighChartForeigner.md",
-    "Altisss Web Trading/assets/HighChartForeigner.png",
-    "SelectTimeRange.md"
+    "Altisss Web Trading/Components/StockExtend.md",
+    "Altisss Web Trading/Components/NormalOrderMain.md",
+    "NormalOrderMain.png",
+    "FinanceIndicator.png",
+    "Altisss Web Trading/Components/FinanceIndicator.md"
   ]
 }
