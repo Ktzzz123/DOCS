@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9eea21513ca2701e",
+        "id": "1d6760d8de26add0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Altisss Web Trading/Common UI/Menu.md",
+            "file": "Altisss Web Trading/Components/Stock_transaction.md",
             "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e808050098af2feb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Altisss Web Trading/main-docs.md",
-            "mode": "preview",
             "source": false
           }
         }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altisss Web Trading/Common UI/Menu.md",
+                "file": "Altisss Web Trading/Components/Stock_transaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altisss Web Trading/Common UI/Menu.md",
+                "file": "Altisss Web Trading/Components/Stock_transaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altisss Web Trading/Common UI/Menu.md"
+                "file": "Altisss Web Trading/Components/Stock_transaction.md"
               }
             }
           }
@@ -140,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9eea21513ca2701e",
+  "active": "07ad531e0d711a5e",
   "lastOpenFiles": [
-    "Altisss Web Trading/main-docs.md",
-    "Altisss Web Trading/Pages/HomePage - Priceboard/Table_PriceBoard.md",
     "Altisss Web Trading/Common UI/Menu.md",
-    "Altisss Web Trading/Pages/HomePage - Priceboard/PriceBoard_Content.md",
-    "Altisss Web Trading/Common UI/Header.md",
-    "Altisss Web Trading/Common UI/Footer.md",
-    "Altisss Web Trading/Background/background_process.md",
-    "Cash_transaction.md",
-    "Altisss Web Trading/Components/Table_Index_Overview.md",
-    "Altisss Web Trading/Components/Market_Info.md"
+    "Altisss Web Trading/Components/Market_Info.md",
+    "Altisss Web Trading/Components/New_Event.md",
+    "Altisss Web Trading/main-docs.md",
+    "Altisss Web Trading/assets/Table_Foreigner_Trade.png",
+    "Altisss Web Trading/Components/Table_Foreigner_Trade.md",
+    "Altisss Web Trading/Components/Foreigner_trade_Layout.md",
+    "Altisss Web Trading/Components/HighChartForeigner.md",
+    "Altisss Web Trading/assets/HighChartForeigner.png",
+    "SelectTimeRange.md"
   ]
 }
