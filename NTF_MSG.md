@@ -1,0 +1,1 @@
+receive data and multicast NOTIFY_SERVER event

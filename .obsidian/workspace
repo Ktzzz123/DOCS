@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d1b232e468519c85",
+        "id": "f6a580f45438bab9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "socket_StartListener_Trading.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "022a3e244d7b2a40",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "RES_MSG.md",
+            "file": "Altisss/DOCS.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RES_MSG.md",
+                "file": "Altisss/DOCS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RES_MSG.md",
+                "file": "Altisss/DOCS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RES_MSG.md"
+                "file": "Altisss/DOCS.md"
               }
             }
           }
@@ -141,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "022a3e244d7b2a40",
+  "active": "f6a580f45438bab9",
   "lastOpenFiles": [
+    "Altisss/Background_Run.md",
+    "Altisss/DOCS.md",
+    "NTF_MSG.md",
+    "socket_StartListener_Trading.md",
     "SYS_MSG.md",
     "RES_MSG.md",
-    "socket_StartListener_Trading.md",
     "disconnect.md",
     "[.md",
     "connect_error.md",
-    "socket_StartListener_Trading_Connect.md",
-    "Connect.md",
-    "Altisss/Background_Run.md",
-    "socket_StartListener_Stream.md"
+    "socket_StartListener_Trading_Connect.md"
   ]
 }

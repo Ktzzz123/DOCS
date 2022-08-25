@@ -4,3 +4,4 @@ Listen  message:
 [Disconnect](disconnect)
 [SYS_MSG](SYS_MSG)
 [RES_MSG](RES_MSG)
+[NTF_MSG](NTF_MSG)
