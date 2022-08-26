@@ -4,13 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3947394102b70bca",
+        "id": "a36bfbfb2de86dc0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Altisss Web Trading/Components/StockExtend.md",
+            "file": "Altisss Web Trading/main-docs.md",
             "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6b2d014c4bddbfb0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Altisss Web Trading/main-docs.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -61,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 300
   },
   "right": {
     "id": "f751719fdb4ac2de",
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altisss Web Trading/Components/StockExtend.md",
+                "file": "Altisss Web Trading/main-docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altisss Web Trading/Components/StockExtend.md",
+                "file": "Altisss Web Trading/main-docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altisss Web Trading/Components/StockExtend.md"
+                "file": "Altisss Web Trading/main-docs.md"
               }
             }
           }
@@ -128,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3947394102b70bca",
+  "active": "6b2d014c4bddbfb0",
   "lastOpenFiles": [
-    "src/views/NormalOrder/index.js.md",
-    "Altisss Web Trading/Components/StockExtend.md",
-    "Altisss Web Trading/Components/NormalOrder.md",
-    "Altisss Web Trading/Components/Stock_transaction.md",
+    "Altisss Web Trading/Background/background_process.md",
+    "Altisss Web Trading/Common UI/Footer.md",
     "Altisss Web Trading/Common UI/Menu.md",
-    "Altisss Web Trading/Components/TradingViewComponent.md",
-    "src/views/NormalOrder/main.js.md",
-    "Altisss Web Trading/Components/Market_Info.md",
-    "Altisss Web Trading/Components/NormalOrderMain.md",
-    "Altisss Web Trading/assets/NormalOrderMain.png"
+    "Altisss Web Trading/Common UI/Header.md",
+    "Backgroud Service.md",
+    "Order_Utility.md",
+    "Altisss Web Trading/main-docs.md",
+    "Altisss Web Trading/Components/Market_Deep.md",
+    "Altisss Web Trading/Components/Market_view.md",
+    "Altisss Web Trading/Components/Market_Info.md"
   ]
 }
