@@ -78,11 +78,16 @@ Every thing run on background
 3. **Others Services (Features)** 
 	- Quick Order
 	- Feedback
-	- Account Infomation
-	- Change Login Password
-	- Change Trading Password
-	- Forgot Trading Password
-	- Bank Account Management
+	- Account Settings
+		- Account Infomation
+		- Change Login Password
+		- Change Trading Password
+		- Forgot Trading Password
+		- Bank Account Management
+	- Config System 
+		- Config Price/Unit
+		- Config Session
+		- Config Hotkey 
 
 
 ---
