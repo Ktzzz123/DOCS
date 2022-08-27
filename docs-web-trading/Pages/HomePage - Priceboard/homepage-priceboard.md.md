@@ -19,7 +19,7 @@
 ## [[Header]]
 ## [[Menu]]
 ## Index Overview
-![[Screen Shot 2022-08-26 at 10.50.28.png]]
+![](Screen%20Shot%202022-08-26%20at%2010.50.28.png)
 1. Chart Index 
 See picture 
 
