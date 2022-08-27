@@ -1,5 +1,16 @@
+# Sumary
+Version: 0.0.1
+Change log: 
 
-# 1. Folder Structure
+| Index | Date | Version | Note | PIC |
+| --- | --- | --- | --- | --- |
+| 1 | 27/08/2022 | 0.0.1 | Init Document <br> Folder Structure for documents <br> Docs rules | Dũng & Tiên |
+| 2 |  |  |  | |
+| 3 |  |  |  | |
+| 4 |  |  |  | |
+
+---
+# Folder Structure
 - [ ] Project Structure
 	- [ ] Components
 	- [ ] Views/Pages
@@ -9,7 +20,7 @@
 - [ ] Plugins/Tools Structure (Eslint, Prettier, Builds Scripts, ... )
 
 ---
-# 2. Background Process
+#  Background Process
 Every thing run on background
 ![10%](https://progress-bar.dev/10?title=Progress)
 - [x] [Background Service](#Background%20Service%20docs-web-trading%20Background%20background-service%20md)
@@ -18,7 +29,7 @@ Every thing run on background
 - [ ] [Socket Service](#Socket%20Service)
 - [ ] [Control Service](#Control%20Service)
 
-##  [Background Service](docs-web-trading/Background/background-service.md)
+##  [Background Service](docs-web-trading/Background/Background%20Service/background-service.md)
 > Task run on background example: Subcribe common data, get init data for app, Monitor subcribe, ...
 
 ## Context Store

@@ -4,6 +4,11 @@
       "type": "file",
       "title": "DOCS",
       "path": "Altisss Web Trading/main-docs.md"
+    },
+    {
+      "type": "file",
+      "title": "main-docs",
+      "path": "docs-web-trading/main-docs.md"
     }
   ]
 }

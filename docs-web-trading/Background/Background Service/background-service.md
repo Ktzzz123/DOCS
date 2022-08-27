@@ -1,5 +1,7 @@
-0. background run
-	- System will check hotkeys, set language, set notification setting.
+
+
+# Task and Functions
+- System will check hotkeys, set language, set notification setting.
 	- Register devices to OneSignal
 	- listen notification message
 	- Read config.js file
