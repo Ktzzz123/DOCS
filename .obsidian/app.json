@@ -3,6 +3,6 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "showFrontmatter": false,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": true
 }

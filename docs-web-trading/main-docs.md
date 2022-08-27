@@ -1,5 +1,5 @@
 # Sumary
-Version: 0.0.1
+Curent Version: 0.0.1
 Change log: 
 
 | Index | Date | Version | Note | PIC |
@@ -23,13 +23,13 @@ Change log:
 #  Background Process
 Every thing run on background
 ![10%](https://progress-bar.dev/10?title=Progress)
-- [x] [Background Service](#Background%20Service%20docs-web-trading%20Background%20background-service%20md)
+- [x] [Background Service](#Background%20Service%20Background%20Background%2020Service%20background-service%20md)
 - [ ] [Context Store](#Context%20Store)
 - [ ] [Global Service](#Global%20Service)
 - [ ] [Socket Service](#Socket%20Service)
 - [ ] [Control Service](#Control%20Service)
 
-##  [Background Service](docs-web-trading/Background/Background%20Service/background-service.md)
+##  [Background Service](Background/Background%20Service/background-service.md)
 > Task run on background example: Subcribe common data, get init data for app, Monitor subcribe, ...
 
 ## Context Store
@@ -50,7 +50,7 @@ Every thing run on background
 > View/Pages is describe all UI of product. Separate by route or modal dispatch content. 
 
 1. **Fullpage** 
-	- [ ] [[#2 1 Homepage - Priceboard]]
+	- [ ] [Homepage - Priceboard](#Homepage%20-%20Priceboard)
 	- [ ] Login - Register
 	- [ ] Tradingview
 

@@ -130,15 +130,15 @@
   },
   "active": "6b2d014c4bddbfb0",
   "lastOpenFiles": [
+    "main-docs.md",
+    "docs-web-trading/main-docs.md",
+    "docs-web-trading/Background/Background Service/background-service.md",
     "docs-web-trading/Pages/HomePage - Priceboard/homepage-priceboard.md.md",
     "docs-web-trading/Common UI/Menu.md",
     "docs-web-trading/Pages/Market View/market-view.md.md",
     "docs-web-trading/Pages/Market Liquidity/components/HighChartMarketLiquidity.md",
     "docs-web-trading/Pages/Market Liquidity/components/TableLiquidity.md",
     "docs-web-trading/Pages/Market Liquidity/market-liquidity.md",
-    "docs-web-trading/Components/Table_Index_Overview.md",
-    "docs-web-trading/Components/Market_Info.md",
-    "src/components/basic-component/select-exchange/index.js.md",
-    "docs-web-trading/Pages/Market Cap/components/SelectExchange.md"
+    "docs-web-trading/Components/Table_Index_Overview.md"
   ]
 }
