@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a36bfbfb2de86dc0",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "6b2d014c4bddbfb0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs-web-trading/main-docs.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 322.5
   },
   "right": {
     "id": "f751719fdb4ac2de",
@@ -81,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs-web-trading/main-docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs-web-trading/main-docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs-web-trading/main-docs.md"
+              }
             }
           }
         ]
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07ad531e0d711a5e",
+  "active": "6b2d014c4bddbfb0",
   "lastOpenFiles": [
-    "Altisss Web Trading/Common UI/photo/header.png",
-    "Altisss Web Trading/Common UI/photo/Menu.png",
-    "Altisss Web Trading/Common UI/Header.md",
-    "Altisss Web Trading/Common UI/photo/QuickOrder.png",
-    "Altisss Web Trading/Common UI/Footer.md",
-    "Altisss Web Trading/main-docs.md",
-    "Altisss Web Trading/Pages/HomePage - Priceboard/homepage-priceboard.md.md",
-    "Altisss Web Trading/Pages/HomePage - Priceboard/PriceBoard_Content.md",
-    "Altisss Web Trading/Pages/HomePage - Priceboard/Table_PriceBoard.md",
-    "Altisss Web Trading/assets/FinanceIndicator.png"
+    "docs-web-trading/Background/background-service.md",
+    "docs-web-trading/main-docs.md",
+    "docs-web-trading/Common UI/Menu.md",
+    "docs-web-trading/Common UI/assets/Menu.png",
+    "Portfolio_Management.md",
+    "docs-web-trading/Common UI/Header.md",
+    "docs-web-trading/Common UI/Footer.md",
+    "docs-web-trading/Common UI/assets/header.png",
+    "docs-web-trading/Common UI/assets/QuickOrder.png",
+    "docs-web-trading/Components/Stock_transaction.md"
   ]
 }
