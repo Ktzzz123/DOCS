@@ -50,7 +50,7 @@ Every thing run on background
 > View/Pages is describe all UI of product. Separate by route or modal dispatch content. 
 
 1. **Fullpage** 
-	- [ ] [Homepage - Priceboard](#Homepage%20-%20Priceboard)
+	- [x] [Homepage - PriceBoard](Pages/HomePage%20-%20Priceboard/homepage-priceboard.md.md)
 	- [ ] Login - Register
 	- [ ] Tradingview
 
@@ -112,14 +112,6 @@ Every thing run on background
 
 
 ---
-##  Homepage - Priceboard
-- [Header.md](Header.md)
-- [Menu](Menu.md)
-- [Chart Index](Chart_Index.md)
-    - [Table Index Overview](Table_Index_Overview.md)
-    - [Table PriceBoard](Table_PriceBoard.md)
-- [Footer](Footer.md)
-- [PriceBoard_Content](PriceBoard_Content.md)
 
 
 
