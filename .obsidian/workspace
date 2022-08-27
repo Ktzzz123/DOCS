@@ -7,12 +7,8 @@
         "id": "a36bfbfb2de86dc0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Altisss Web Trading/Pages/HomePage - Priceboard/PriceBoard_Content.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
@@ -21,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Altisss Web Trading/Pages/HomePage - Priceboard/homepage-priceboard.md.md",
+            "file": "Altisss Web Trading/main-docs.md",
             "mode": "preview",
             "source": false
           }
@@ -73,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220.5
   },
   "right": {
     "id": "f751719fdb4ac2de",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altisss Web Trading/Pages/HomePage - Priceboard/PriceBoard_Content.md",
+                "file": "Altisss Web Trading/main-docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altisss Web Trading/Pages/HomePage - Priceboard/PriceBoard_Content.md",
+                "file": "Altisss Web Trading/main-docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altisss Web Trading/Pages/HomePage - Priceboard/PriceBoard_Content.md"
+                "file": "Altisss Web Trading/main-docs.md"
               }
             }
           }
@@ -142,15 +138,15 @@
   },
   "active": "a36bfbfb2de86dc0",
   "lastOpenFiles": [
-    "Altisss Web Trading/Pages/HomePage - Priceboard/Table_PriceBoard.md",
-    "Altisss Web Trading/Pages/HomePage - Priceboard/PriceBoard_Content.md",
-    "Altisss Web Trading/assets/FinanceIndicator.png",
-    "Altisss Web Trading/assets/ChartMarketTable.png",
-    "Altisss Web Trading/assets/Chart_Group.png",
-    "Altisss Web Trading/Pages/HomePage - Priceboard/Chart_Index.md",
-    "Altisss Web Trading/Pages/HomePage - Priceboard/homepage-priceboard.md.md",
-    "Altisss Web Trading/Pages/HomePage - Priceboard/Screen Shot 2022-08-26 at 10.50.28.png",
+    "Altisss Web Trading/Common UI/photo/header.png",
+    "Altisss Web Trading/Common UI/photo/Menu.png",
     "Altisss Web Trading/Common UI/Header.md",
-    "Altisss Web Trading/main-docs.md"
+    "Altisss Web Trading/Common UI/photo/QuickOrder.png",
+    "Altisss Web Trading/Common UI/Footer.md",
+    "Altisss Web Trading/main-docs.md",
+    "Altisss Web Trading/Pages/HomePage - Priceboard/homepage-priceboard.md.md",
+    "Altisss Web Trading/Pages/HomePage - Priceboard/PriceBoard_Content.md",
+    "Altisss Web Trading/Pages/HomePage - Priceboard/Table_PriceBoard.md",
+    "Altisss Web Trading/assets/FinanceIndicator.png"
   ]
 }

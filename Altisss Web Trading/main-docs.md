@@ -2,11 +2,11 @@
 
 # 1. Background Process
 Every thing run on background
-- Backgroud Service: [[#1 1 Background Service background_process md]]
-- Context Store [[#1 2 Context Store]]
-- Global Service [[#1 3 Global Service]] 
-- Socket Service [[#1 4 Socket Service]]
-- Control Service [[#1 5 Control Service]]
+- [x] Backgroud Service: [[#1 1 Background Service background_process md]]
+- [ ] Context Store [[#1 2 Context Store]]
+- [ ] Global Service [[#1 3 Global Service]] 
+- [ ] Socket Service [[#1 4 Socket Service]]
+- [ ] Control Service [[#1 5 Control Service]]
 
 ## 1.1. [Background Service](background_process.md)
 > Task run on background example: Subcribe common data, get init data for app, Monitor subcribe, ...
@@ -29,65 +29,65 @@ Every thing run on background
 > View/Pages is describe all UI of product. Separate by route or modal dispatch content. 
 
 1. **Fullpage** 
-	- Homepage - Priceboard
-	- Login - Register
-	- Tradingview
+	- [ ] Homepage - Priceboard
+	- [ ] Login - Register
+	- [ ] Tradingview
 
 2. **Pages - Service (From Menu)**
 
 	***Market Info***
-	- Market View
-	- Market Cap
-	- Market Foreigner 
-	- News - Events
+	- [ ] Market View
+	- [ ] Market Cap
+	- [ ] Market Foreigner 
+	- [ ] News - Events
 
 	***Stock Transaction***
-	- Order 
-	- Dublicate Order
-	- Take Profits - Stop Loss Order
-	- Regular Invesment
-	- Alert
-	- Order History
-	- Right Informations
-	- Expected right on Portfolio
-	- Internal Stock Transfer
-	- Rights to buy
-	- Advertis Order
+	- [ ] Order 
+	- [ ] Dublicate Order
+	- [ ] Take Profits - Stop Loss Order
+	- [ ] Regular Invesment
+	- [ ] Alert
+	- [ ] Order History
+	- [ ] Right Informations
+	- [ ] Expected right on Portfolio
+	- [ ] Internal Stock Transfer
+	- [ ] Rights to buy
+	- [ ] Advertis Order
 	
 	***Cash Transaction***
-	- Deposit inform 
-	- Online Banking (BIDV)
-	- Internal Transfer
-	- Cash in Advanced
-	- Widthdrawal Request
+	- [ ] Deposit inform 
+	- [ ] Online Banking (BIDV)
+	- [ ] Internal Transfer
+	- [ ] Cash in Advanced
+	- [ ] Widthdrawal Request
 	
 	***Portfolio Management***
-	- Portfolio 
-	- Profit loss caculator
-	- Margin Extension
-	- Margin Repayment
-	- Performance
-	- Statement
-	- Confirm your Order
+	- [ ] Portfolio 
+	- [ ] Profit loss caculator
+	- [ ] Margin Extension
+	- [ ] Margin Repayment
+	- [ ] Performance
+	- [ ] Statement
+	- [ ] Confirm your Order
 	
 	***SSV Service***
-	- Research Center
-	- Registation of Selling Oddlot
-	- Advisory
+	- [ ] Research Center
+	- [ ] Registation of Selling Oddlot
+	- [ ] Advisory
 	
 3. **Others Services (Features)** 
-	- Quick Order
-	- Feedback
-	- Account Settings
-		- Account Infomation
-		- Change Login Password
-		- Change Trading Password
-		- Forgot Trading Password
-		- Bank Account Management
-	- Config System 
-		- Config Price/Unit
-		- Config Session
-		- Config Hotkey 
+	- [ ] Quick Order
+	- [ ] Feedback
+	- [ ] Account Settings
+		- [ ] Account Infomation
+		- [ ] Change Login Password
+		- [ ] Change Trading Password
+		- [ ] Forgot Trading Password
+		- [ ] Bank Account Management
+	- [ ] Config System 
+		- [ ] Config Price/Unit
+		- [ ] Config Session
+		- [ ] Config Hotkey 
 
 
 ---

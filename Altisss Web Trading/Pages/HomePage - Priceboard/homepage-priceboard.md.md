@@ -23,18 +23,15 @@
 1. Chart Index 
 
 |        | Description |  
-| ----------- | ----------- | 
+| --- | --- | 
 |Sumary| Present data of index, index change in realtime |
 | Technology | HighCharts |  
-| Stream | - Topic: [MDDS[I, ...], INTRADAY_1m] <br> - value: ['VNI', 'VN30', 'HNX30', ...]
+| Stream | - Topic: [MDDS&#124;I, MDDS&#124;SI, INTRADAY_1m] <br> - value: ['VNI', 'VN30', 'HNX30', ...]
 | Service | |
 | Link to Code|  |
 
 
 
-
-
-
-3. Table Index Overview
+2. Table Index Overview
 
 
