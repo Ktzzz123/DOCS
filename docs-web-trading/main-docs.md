@@ -58,7 +58,7 @@ Every thing run on background
 
 	***Market Info***
 	- [ ] Market View
-	- [ ] Market Cap
+	- [x] [Market Cap](Pages/Market%20Cap/market-cap-layout.md)
 	- [ ] Market Foreigner 
 	- [ ] News - Events
 

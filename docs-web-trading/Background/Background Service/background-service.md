@@ -1,6 +1,11 @@
 
 
 # Task and Functions
+
+
+
+# Details
+
 - System will check hotkeys, set language, set notification setting.
 	- Register devices to OneSignal
 	- listen notification message

@@ -1,8 +1,10 @@
 {
   "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "showFrontmatter": false,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "livePreview": true,
+  "showLineNumber": true
 }
