@@ -41,7 +41,7 @@
 
 **Images: **
 
-![](../../../Screen%20Shot%202022-08-29%20at%2009.22.46.png)
+![](images/market-liquidity-table.png)
 **Feature:** 
 - User can view values in tabular form and can sort in ascending or descending order of values by column.
 - View top by value and trading data

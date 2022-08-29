@@ -142,6 +142,8 @@
   },
   "active": "6b449fb638496d94",
   "lastOpenFiles": [
+    "docs-web-trading/Pages/Market Liquidity/images/market-liquidity-table.png",
+    "docs-web-trading/main-docs.md",
     "docs-web-trading/Pages/Market Liquidity/market-liquidity.md",
     "docs-web-trading/Pages/Market Liquidity/components/TableLiquidity.md",
     "docs-web-trading/Pages/Market Liquidity/images/market-liquidity-chart.png",
@@ -149,8 +151,6 @@
     "docs-web-trading/Pages/Market Liquidity/components/HighChartMarketLiquidity.md",
     "HighChartForeigner.md",
     "docs-web-trading/Pages/Market Liquidity/Untitled.md",
-    "docs-web-trading/Pages/Market Cap/market-cap-layout.md",
-    "docs-web-trading/Components/Market_Info.md",
-    "docs-web-trading/Components/New_Event.md"
+    "docs-web-trading/Pages/Market Cap/market-cap-layout.md"
   ]
 }
