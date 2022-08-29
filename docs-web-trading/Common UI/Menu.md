@@ -6,8 +6,8 @@
 
 - [Priceboard - HomePage](docs-web-trading/Pages/HomePage%20-%20Priceboard/homepage-priceboard.md.md)
 - Market Info
-	- [Market view](docs-web-trading/Pages/Market%20View/market-view.md.md)
-	- [Market liquidity](docs-web-trading/Pages/Market%20Liquidity/market-liquidity.md)
+	- [Market view](../Pages/Market%20View/market-view.md)
+	- [Market liquidity](../Pages/Market%20Liquidity/market-liquidity.md)
 	- [Market cap](docs-web-trading/Pages/Market%20Cap/market-cap-layout.md)
 	- [Foreigner trade](Foreigner_trade_Layout.md)
 	- [New - Event](New_Event.md)

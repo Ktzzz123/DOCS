@@ -57,9 +57,10 @@ Every thing run on background
 2. **Pages - Service (From Menu)**
 
 	***Market Info***
-	- [ ] Market View
+	- [x] [Market View](Pages/Market%20View/market-view.md)
 	- [x] [Market Cap](Pages/Market%20Cap/market-cap-layout.md)
-	- [ ] Market Foreigner 
+	- [x] [Market Foreigner Trade](Pages/Foreginer%20Trade/foreginer-trade.md)
+	- [x] [Market Liquidity](Pages/Market%20Liquidity/market-liquidity.md)
 	- [ ] News - Events
 
 	***Stock Transaction***

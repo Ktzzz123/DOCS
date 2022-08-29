@@ -6,7 +6,7 @@
       {
         "id": "6b449fb638496d94",
         "type": "leaf",
-        "dimension": 53.6833855799373,
+        "dimension": 55.175097276264594,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,10 +19,12 @@
       {
         "id": "957e20b0deb79c32",
         "type": "leaf",
-        "dimension": 46.3166144200627,
+        "dimension": 44.82490272373541,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "docs-web-trading/Pages/Market View/images/market-view-chart-advances-declines-distribution.png"
+          }
         }
       }
     ],
@@ -71,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 353.5
   },
   "right": {
     "id": "f751719fdb4ac2de",
@@ -140,15 +142,15 @@
   },
   "active": "6b449fb638496d94",
   "lastOpenFiles": [
-    "docs-web-trading/Common UI/Header.md",
-    "docs-web-trading/Background/Background Service/background-service.md",
-    "docs-web-trading/Common UI/images/header-center.png",
-    "docs-web-trading/Common UI/images/header-overview.png",
-    "docs-web-trading/Common UI/Menu.md",
-    "docs-web-trading/Common UI/Footer.md",
-    "docs-web-trading/Common UI/images/Menu.png",
-    "docs-web-trading/Common UI/images/header.png",
-    "docs-web-trading/Common UI/images/QuickOrder.png",
-    "docs-web-trading/Common UI/images/footer-left.png"
+    "docs-web-trading/Pages/Market Liquidity/market-liquidity.md",
+    "docs-web-trading/Pages/Market Liquidity/components/TableLiquidity.md",
+    "docs-web-trading/Pages/Market Liquidity/images/market-liquidity-chart.png",
+    "docs-web-trading/Pages/Market Liquidity/images/market-liquidity-select-exchange.png",
+    "docs-web-trading/Pages/Market Liquidity/components/HighChartMarketLiquidity.md",
+    "HighChartForeigner.md",
+    "docs-web-trading/Pages/Market Liquidity/Untitled.md",
+    "docs-web-trading/Pages/Market Cap/market-cap-layout.md",
+    "docs-web-trading/Components/Market_Info.md",
+    "docs-web-trading/Components/New_Event.md"
   ]
 }
