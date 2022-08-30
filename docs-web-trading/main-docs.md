@@ -77,7 +77,7 @@ Every thing run on background
 	- [x] [Advertise Order](Pages/Advertise%20order/Advertise%20Order.md)
 	
 	***Cash Transaction***
-	- [ ] Deposit inform 
+	- [x] [Deposite Inform](Pages/Deposit%20inform/Deposite-inform.md)
 	- [ ] Online Banking (BIDV)
 	- [ ] Internal Transfer
 	- [ ] Cash in Advanced

@@ -18,12 +18,12 @@
         }
       },
       {
-        "id": "09798efdc93494fb",
+        "id": "1383afef3123c15d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs-web-trading/Pages/Alert/Alert.md",
+            "file": "docs-web-trading/Pages/Deposit inform/Deposite-inform.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs-web-trading/Pages/Alert/Alert.md",
+                "file": "docs-web-trading/main-docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs-web-trading/Pages/Alert/Alert.md",
+                "file": "docs-web-trading/main-docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs-web-trading/Pages/Alert/Alert.md"
+                "file": "docs-web-trading/main-docs.md"
               }
             }
           }
@@ -142,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "09798efdc93494fb",
+  "active": "44eb469d95c32a85",
   "lastOpenFiles": [
+    "docs-web-trading/Pages/Deposit inform/Deposite-inform.md",
     "docs-web-trading/main-docs.md",
+    "docs-web-trading/Pages/Market Cap/market-cap-layout.md",
+    "docs-web-trading/Pages/Market View/market-view.md",
+    "docs-web-trading/Pages/Alert/Alert.md",
     "docs-web-trading/Pages/Order history/Order History.md",
     "docs-web-trading/Pages/Right Information/Right Informations.md",
     "docs-web-trading/Pages/Right Information/images/Right Informations.png",
     "docs-web-trading/Pages/Expected right on Portfolio/Expected right on Portfolio.md",
-    "docs-web-trading/Pages/Internal Stock Transfer/Internal Stock Transfer.md",
-    "docs-web-trading/Pages/Right to buy/Rights to buy.md",
-    "docs-web-trading/Pages/Advertise order/Advertise Order.md",
-    "Pasted image 20220830181950.png",
-    "docs-web-trading/Pages/Advertise order/images/Advertise Order.png"
+    "docs-web-trading/Pages/Internal Stock Transfer/Internal Stock Transfer.md"
   ]
 }
