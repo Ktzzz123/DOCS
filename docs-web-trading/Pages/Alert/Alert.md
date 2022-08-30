@@ -7,8 +7,8 @@
 # Content
 ## Create Alert Form
 
+**Images:** 
 
-**Images:**
 ![](Images/CreateAlertForm.png)
 
 **Feature:**
