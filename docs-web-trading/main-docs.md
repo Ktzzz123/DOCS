@@ -71,10 +71,10 @@ Every thing run on background
 	- [x] [Alert](Pages/Alert/Alert.md)
 	- [x] [Order History](Pages/Order%20history/Order%20History.md)
 	- [x] [Right Informations](Pages/Right%20Information/Right%20Informations.md)
-	- [ ] [Expected right on Portfolio](Pages/Expected%20right%20on%20Portfolio/Expected%20right%20on%20Portfolio.md)
-	- [ ] [Internal Stock Transfer](Pages/Internal%20Stock%20Transfer/Internal%20Stock%20Transfer.md)
-	- [ ] [Rights to buy](Pages/Right%20to%20buy/Rights%20to%20buy.md)
-	- [ ] [Advertise Order](Pages/Advertise%20order/Advertise%20Order.md)
+	- [x] [Expected right on Portfolio](Pages/Expected%20right%20on%20Portfolio/Expected%20right%20on%20Portfolio.md)
+	- [x] [Internal Stock Transfer](Pages/Internal%20Stock%20Transfer/Internal%20Stock%20Transfer.md)
+	- [x] [Rights to buy](Pages/Right%20to%20buy/Rights%20to%20buy.md)
+	- [x] [Advertise Order](Pages/Advertise%20order/Advertise%20Order.md)
 	
 	***Cash Transaction***
 	- [ ] Deposit inform 

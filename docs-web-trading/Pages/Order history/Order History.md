@@ -20,6 +20,7 @@
 
 **Feature:**
 - Show history order of user
+
 **Code:**
 - UI:
 - Logic:
@@ -29,6 +30,7 @@
 ![](images/Reservation%20order.png)
 **Feature:**
 - Show reservation order of user
+
 **Code:**
 - UI:
 - Logic:
@@ -39,6 +41,7 @@
 
 **Feature:**
 - Show oder confirmed of user
+
 **Code:**
 - UI:
 - Logic:
@@ -52,6 +55,7 @@
 
 **Feature:**
 - Show history of cash transactions
+
 **Code:**
 - UI:
 - Logic:
@@ -63,8 +67,8 @@
 
 **Feature:**
 - Show history of securities transactions
-**Code:**
 
+**Code:**
 - UI:
 - Logic:
 
@@ -75,6 +79,7 @@
 
 **Feature:**
 - Show history of transaction audit
+
 **Code:**
 - UI:
 - Logic:

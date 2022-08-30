@@ -5,7 +5,7 @@
 ## Table right
 
 **Images:**
-![](../../../Pasted%20image%2020220830162844.png)
+![](images/Right%20Informations.png)
 
 **Feature:**
 - List all specific right of user when they buy specific stock

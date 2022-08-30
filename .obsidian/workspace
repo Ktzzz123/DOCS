@@ -6,7 +6,6 @@
       {
         "id": "44eb469d95c32a85",
         "type": "leaf",
-        "dimension": 32.438831886345696,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -19,13 +18,12 @@
         }
       },
       {
-        "id": "426cf42501730162",
+        "id": "09798efdc93494fb",
         "type": "leaf",
-        "dimension": 67.5611681136543,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs-web-trading/Pages/Regular Invesment/Regular Investment.md",
+            "file": "docs-web-trading/Pages/Alert/Alert.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs-web-trading/main-docs.md",
+                "file": "docs-web-trading/Pages/Alert/Alert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs-web-trading/main-docs.md",
+                "file": "docs-web-trading/Pages/Alert/Alert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs-web-trading/main-docs.md"
+                "file": "docs-web-trading/Pages/Alert/Alert.md"
               }
             }
           }
@@ -144,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44eb469d95c32a85",
+  "active": "09798efdc93494fb",
   "lastOpenFiles": [
-    "docs-web-trading/Pages/Regular Invesment/Regular Investment.md",
     "docs-web-trading/main-docs.md",
     "docs-web-trading/Pages/Order history/Order History.md",
-    "docs-web-trading/Pages/Order history/images/Confirm your order.png",
-    "docs-web-trading/Pages/Order history/images/Reservation order.png",
-    "docs-web-trading/Pages/Order history/images/History-order.png",
-    "docs-web-trading/Pages/Order history/images/Transaction audit.png",
-    "docs-web-trading/Pages/Order history/images/Statement-of-securities-transactions.png",
-    "docs-web-trading/Pages/Order history/images/Statment-of-cash-transaction.png",
-    "Pasted image 20220830171322.png"
+    "docs-web-trading/Pages/Right Information/Right Informations.md",
+    "docs-web-trading/Pages/Right Information/images/Right Informations.png",
+    "docs-web-trading/Pages/Expected right on Portfolio/Expected right on Portfolio.md",
+    "docs-web-trading/Pages/Internal Stock Transfer/Internal Stock Transfer.md",
+    "docs-web-trading/Pages/Right to buy/Rights to buy.md",
+    "docs-web-trading/Pages/Advertise order/Advertise Order.md",
+    "Pasted image 20220830181950.png",
+    "docs-web-trading/Pages/Advertise order/images/Advertise Order.png"
   ]
 }
