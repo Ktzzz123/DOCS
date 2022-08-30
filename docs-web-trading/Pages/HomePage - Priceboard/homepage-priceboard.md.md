@@ -54,7 +54,7 @@
 ![](images/priceboard.png)
 
 **Features:** 
-- There are 2 table views mode: trading data, fundamental data
+- There are 2 table view modes: trading data, fundamental data
 - Lots of type table:
 	- Normal trading data from common exchange
 	- Put through
