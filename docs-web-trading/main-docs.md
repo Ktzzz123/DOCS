@@ -66,7 +66,7 @@ Every thing run on background
 	***Stock Transaction***
 	- [x] [Order](../Pages/Normal%20Order/normal-order.md)
 	- [x] [Take Profits - Stop Loss Order](Pages/Take%20Profit%20and%20Stop%20Loss/TakeProfitAndStopLoss.md)
-	- [ ]  [Duplicate Order](Pages/Duplicate%20Order/duplicate-order.md)
+	- [x]  [Duplicate Order](Pages/Duplicate%20Order/duplicate-order.md)
 	- [ ] [Regular Investment](Pages/Regular%20Invesment/Regular%20Investment.md)
 	- [ ] [Alert](Pages/Alert/Alert.md)
 	- [ ] [Order History](Pages/Order%20history/Order%20History.md)

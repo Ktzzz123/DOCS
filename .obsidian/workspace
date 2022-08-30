@@ -6,27 +6,11 @@
       {
         "id": "44eb469d95c32a85",
         "type": "leaf",
-        "dimension": 26.384039900249377,
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "docs-web-trading/main-docs.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "d4868835036b5f7f",
-        "type": "leaf",
-        "dimension": 73.61596009975062,
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs-web-trading/Pages/Take Profit and Stop Loss/TakeProfitAndStopLoss.md",
             "mode": "source",
             "source": false
           },
@@ -95,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs-web-trading/Pages/Take Profit and Stop Loss/TakeProfitAndStopLoss.md",
+                "file": "docs-web-trading/main-docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs-web-trading/Pages/Take Profit and Stop Loss/TakeProfitAndStopLoss.md",
+                "file": "docs-web-trading/main-docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs-web-trading/Pages/Take Profit and Stop Loss/TakeProfitAndStopLoss.md"
+                "file": "docs-web-trading/main-docs.md"
               }
             }
           }
@@ -146,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4868835036b5f7f",
+  "active": "44eb469d95c32a85",
   "lastOpenFiles": [
-    "docs-web-trading/main-docs.md",
     "docs-web-trading/Pages/Take Profit and Stop Loss/TakeProfitAndStopLoss.md",
+    "docs-web-trading/main-docs.md",
+    "docs-web-trading/Pages/Regular Invesment/Regular Investment.md",
+    "docs-web-trading/Pages/Regular Invesment/images/Regular Investment.png",
+    "docs-web-trading/Pages/Duplicate Order/duplicate-order.md",
+    "docs-web-trading/Pages/Normal Oder/normal-order.md",
+    "docs-web-trading/Pages/Duplicate Order/images/AdvanceOrder.png",
     "Pasted image 20220830140448.png",
     "docs-web-trading/Pages/Take Profit and Stop Loss/components/order-list.png",
-    "docs-web-trading/Pages/Take Profit and Stop Loss/components/Stocks ownership.png",
-    "src/views/TakeProfitStopLoss/take-profit-stop-loss-form.js.md",
-    "docs-web-trading/Pages/Take Profit and Stop Loss/components/TakeProfitStopLossForm.md",
-    "docs-web-trading/Pages/Market Liquidity/market-liquidity.md",
-    "docs-web-trading/Pages/HomePage - Priceboard/homepage-priceboard.md.md",
-    "docs-web-trading/Background/Background Service/background-service.md"
+    "docs-web-trading/Pages/Take Profit and Stop Loss/components/Stocks ownership.png"
   ]
 }

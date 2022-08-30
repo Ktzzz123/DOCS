@@ -24,6 +24,7 @@
 **Images:**
 ![](components/Stocks%20ownership.png)
 **Features:**
+- Show list of stock user have
 **Code:**
 - UI:
 	- ==[Assets-buypower](src\views\QuickOrder\assets-buypower.js)==
@@ -36,6 +37,7 @@
 **Images:**
 ![](components/order-list.png)
 **Features:**
+- Show list of TF and SL order user have
 **Code:**
 - UI: 
 	- ==[code](src\views\TakeProfitStopLoss\index.js)
