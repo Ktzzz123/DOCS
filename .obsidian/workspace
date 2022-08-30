@@ -18,7 +18,7 @@
         }
       },
       {
-        "id": "74da5b7d0e59c746",
+        "id": "16e4407a4ad8db17",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -142,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74da5b7d0e59c746",
+  "active": "16e4407a4ad8db17",
   "lastOpenFiles": [
     "docs-web-trading/main-docs.md",
-    "docs-web-trading/Pages/Normal Oder/normal-order.md",
     "docs-web-trading/Pages/Right Information/Right Informations.md",
     "docs-web-trading/Pages/Order history/Order History.md",
     "docs-web-trading/Pages/Alert/Alert.md",
+    "docs-web-trading/Pages/Regular Invesment/Regular Investment.md",
+    "docs-web-trading/Pages/Duplicate Order/duplicate-order.md",
+    "docs-web-trading/Pages/Normal Oder/normal-order.md",
+    "docs-web-trading/Pages/Take Profit and Stop Loss/TakeProfitAndStopLoss.md",
     "docs-web-trading/Pages/Alert/Images/ListAlert.png",
-    "docs-web-trading/Pages/Alert/Images/CreateAlertForm.png",
-    "docs-web-trading/Pages/HomePage - Priceboard/homepage-priceboard.md.md",
-    "docs-web-trading/Pages/Market View/market-view.md",
-    "docs-web-trading/Pages/Regular Invesment/Regular Investment.md"
+    "docs-web-trading/Pages/Alert/Images/CreateAlertForm.png"
   ]
 }

@@ -10,11 +10,14 @@
 ## Background run
 - check if user are not login. Request user login or register
 ## Trading View Chart
+
 **Images:**
 ![](images/Trading_View_Component_Chart.png)
 
+
 **Feature:** 
 - Show trading chart of one stock
+
 **Code:**
 - UI:
 	- ==[TradingviewComponent](src\components\tradingview\index.tsx)
@@ -25,17 +28,20 @@
 		-  if type of messgae is `HIDE_STOCK_INFO`, setShowTradingview is `true`
 	- show chart base on `ShowTradingview` variable
 ## Stock Extend
+
 **Images:**
 ![StockExtend](../Market%20View/images/StockExtend.png)
 
 ![](images/Matched%20Volume.png)
 ![](images/History%20price.png)
 ![](images/Cash%20flow.png)
+
 **Feature:**
 - Price-depth: show Price-depth, bids, offers of a stock
 - Matched volume: show number of matched volume
 - History price: show history price of stock that focusing on
 - Cash flow: show cash flow of company that focusing on
+
 **Code:**
 - UI:
 	- ==[Stock extend](src\views\NormalOrder\stock-extend.js)==
@@ -57,14 +63,17 @@
 			- CashFlowChart
 			- CashFlowHistory
 ## Finance Indicator
+
 **Images:**
 ![](images/FinanceIndicator.png)
+
 **Feature:**
 show Finance Indicator include 4 table:
 - ROE
 - Loan/Equity
 - Net revenue
 - Total assets
+
 **code:**
 - UI: ==[code link](src\components\stock-info\finance-indicator.js)
 - Logic:
@@ -73,10 +82,13 @@ show Finance Indicator include 4 table:
 		- Render base on `financeInfo` variable.
 [FinanceIndicator](FinanceIndicator.md)
 ## Normal Order
+
 **Images**
 ![NormalOrderMain](images/NormalOrderMain.png)
+
 **Feature:**
 - User can create an order(sell or buy)
+
 **code:**
 - UI: 
 - Logic:
