@@ -6,6 +6,7 @@
       {
         "id": "44eb469d95c32a85",
         "type": "leaf",
+        "dimension": 32.438831886345696,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -18,12 +19,13 @@
         }
       },
       {
-        "id": "16e4407a4ad8db17",
+        "id": "426cf42501730162",
         "type": "leaf",
+        "dimension": 67.5611681136543,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs-web-trading/Pages/Alert/Alert.md",
+            "file": "docs-web-trading/Pages/Regular Invesment/Regular Investment.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs-web-trading/Pages/Alert/Alert.md",
+                "file": "docs-web-trading/main-docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs-web-trading/Pages/Alert/Alert.md",
+                "file": "docs-web-trading/main-docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs-web-trading/Pages/Alert/Alert.md"
+                "file": "docs-web-trading/main-docs.md"
               }
             }
           }
@@ -142,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "16e4407a4ad8db17",
+  "active": "44eb469d95c32a85",
   "lastOpenFiles": [
-    "docs-web-trading/main-docs.md",
-    "docs-web-trading/Pages/Right Information/Right Informations.md",
-    "docs-web-trading/Pages/Order history/Order History.md",
-    "docs-web-trading/Pages/Alert/Alert.md",
     "docs-web-trading/Pages/Regular Invesment/Regular Investment.md",
-    "docs-web-trading/Pages/Duplicate Order/duplicate-order.md",
-    "docs-web-trading/Pages/Normal Oder/normal-order.md",
-    "docs-web-trading/Pages/Take Profit and Stop Loss/TakeProfitAndStopLoss.md",
-    "docs-web-trading/Pages/Alert/Images/ListAlert.png",
-    "docs-web-trading/Pages/Alert/Images/CreateAlertForm.png"
+    "docs-web-trading/main-docs.md",
+    "docs-web-trading/Pages/Order history/Order History.md",
+    "docs-web-trading/Pages/Order history/images/Confirm your order.png",
+    "docs-web-trading/Pages/Order history/images/Reservation order.png",
+    "docs-web-trading/Pages/Order history/images/History-order.png",
+    "docs-web-trading/Pages/Order history/images/Transaction audit.png",
+    "docs-web-trading/Pages/Order history/images/Statement-of-securities-transactions.png",
+    "docs-web-trading/Pages/Order history/images/Statment-of-cash-transaction.png",
+    "Pasted image 20220830171322.png"
   ]
 }
