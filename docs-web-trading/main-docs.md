@@ -64,13 +64,13 @@ Every thing run on background
 	- [ ] News - Events
 
 	***Stock Transaction***
-	- [x] [Order](../Pages/Normal%20Order/normal-order.md)
+	- [x] [Order](Pages/Normal%20Oder/normal-order.md)
 	- [x] [Take Profits - Stop Loss Order](Pages/Take%20Profit%20and%20Stop%20Loss/TakeProfitAndStopLoss.md)
 	- [x]  [Duplicate Order](Pages/Duplicate%20Order/duplicate-order.md)
 	- [ ] [Regular Investment](Pages/Regular%20Invesment/Regular%20Investment.md)
-	- [ ] [Alert](Pages/Alert/Alert.md)
+	- [x] [Alert](Pages/Alert/Alert.md)
 	- [ ] [Order History](Pages/Order%20history/Order%20History.md)
-	- [ ] [Right Informations](Pages/Right%20Information/Right%20Informations.md)
+	- [x] [Right Informations](Pages/Right%20Information/Right%20Informations.md)
 	- [ ] [Expected right on Portfolio](Pages/Expected%20right%20on%20Portfolio/Expected%20right%20on%20Portfolio.md)
 	- [ ] [Internal Stock Transfer](Pages/Internal%20Stock%20Transfer/Internal%20Stock%20Transfer.md)
 	- [ ] [Rights to buy](Pages/Right%20to%20buy/Rights%20to%20buy.md)

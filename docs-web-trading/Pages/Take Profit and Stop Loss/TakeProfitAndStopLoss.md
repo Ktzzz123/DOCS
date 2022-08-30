@@ -3,6 +3,7 @@
 - Take profit and stop loss order
 - Stocks ownership
 - Order list
+> Pages includes: [Header](../../Common%20UI/Header.md), [Menu](../../Common%20UI/Menu.md), [Footer](../../Common%20UI/Footer.md) 
 # Content
 ## Background run
 - Check if user login or not, if user dont login, request user login
