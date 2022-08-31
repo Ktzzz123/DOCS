@@ -84,15 +84,17 @@ Every thing run on background
 	- [x] [Withdrawal Request](Pages/Withdrawal%20request/Withdrawal%20Request.md)
 	
 	***Portfolio Management***
-	- [ ] Portfolio 
+	- [x] [Portfolio](Pages/Portfolio/Portfolio.md)
 	- [ ] Profit loss caculator
-	- [ ] Margin Extension
-	- [ ] Margin Repayment
-	- [ ] Performance
-	- [ ] Statement
-	- [ ] Confirm your Order
+	- [x] [Margin Extension](Pages/Margin%20Extension/Margin%20Extension.md)
+	- [x] [Margin Repayment](Pages/Margin%20Repayment/Margin%20Repayment.md)
+	- [x] [Performance](Pages/Performance/Performance.md)
+	- [x] [Statement](Pages/Statement/Statement.md)
+	- [x] [Confirm your Order](Pages/Confirm%20your%20Order/Confirm%20your%20Order.md)
 	
 	***SSV Service***
+	- [ ] [User guide](Pages/User%20guide/User%20guide.md)
+	- [ ] Margin Stock List
 	- [ ] Research Center
 	- [ ] Registation of Selling Oddlot
 	- [ ] Advisory

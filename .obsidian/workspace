@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "44eb469d95c32a85",
+        "id": "7839ff046ce4fedf",
         "type": "leaf",
-        "dimension": 27.940015785319655,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -16,19 +15,6 @@
             "source": false
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "7839ff046ce4fedf",
-        "type": "leaf",
-        "dimension": 72.05998421468036,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs-web-trading/Pages/Deposit inform/Deposit-inform.md",
-            "mode": "source",
-            "source": false
-          }
         }
       }
     ],
@@ -93,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs-web-trading/Pages/Deposit inform/Deposit-inform.md",
+                "file": "docs-web-trading/main-docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs-web-trading/Pages/Deposit inform/Deposit-inform.md",
+                "file": "docs-web-trading/main-docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs-web-trading/Pages/Deposit inform/Deposit-inform.md"
+                "file": "docs-web-trading/main-docs.md"
               }
             }
           }
@@ -146,15 +132,15 @@
   },
   "active": "7839ff046ce4fedf",
   "lastOpenFiles": [
+    "docs-web-trading/Pages/Margin Stock List/Margin Stock List.md",
     "docs-web-trading/main-docs.md",
-    "docs-web-trading/Pages/Deposit inform/Deposit-inform.md",
-    "docs-web-trading/Pages/Online Banking (BIDV)/Online Banking (BIDV).md",
-    "docs-web-trading/Pages/Internal Transfer/Interal Transfer.md",
-    "docs-web-trading/Pages/Pay in Advanced/Pay in Advanced.md",
-    "docs-web-trading/Pages/Withdrawal request/Withdrawal Request.md",
+    "docs-web-trading/Pages/User guide/User guide.md",
+    "docs-web-trading/Pages/Confirm your Order/Confirm your Order.md",
+    "docs-web-trading/Pages/Confirm your Order/images/Confirm your Order.png",
     "nháp.md",
-    "docs-web-trading/Pages/Withdrawal request/images/Transaction history.png",
-    "docs-web-trading/Pages/Withdrawal request/images/Withdrawal request.png",
-    "docs-web-trading/Pages/Pay in Advanced/images/Cash advance sales history.png"
+    "docs-web-trading/Pages/Margin Repayment/Margin Repayment.md",
+    "docs-web-trading/Pages/Statement/Statement.md",
+    "docs-web-trading/Pages/Performance/Performance.md",
+    "docs-web-trading/Pages/Performance/images/History assets.png"
   ]
 }

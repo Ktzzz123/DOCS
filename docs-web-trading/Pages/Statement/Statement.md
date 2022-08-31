@@ -1,0 +1,1 @@
+Statement is the same like statement in [Order History](../Order%20history/Order%20History.md)
