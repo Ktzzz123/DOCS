@@ -6,6 +6,7 @@
       {
         "id": "44eb469d95c32a85",
         "type": "leaf",
+        "dimension": 27.940015785319655,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -18,12 +19,13 @@
         }
       },
       {
-        "id": "1383afef3123c15d",
+        "id": "7839ff046ce4fedf",
         "type": "leaf",
+        "dimension": 72.05998421468036,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs-web-trading/Pages/Deposit inform/Deposite-inform.md",
+            "file": "docs-web-trading/Pages/Deposit inform/Deposit-inform.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs-web-trading/main-docs.md",
+                "file": "docs-web-trading/Pages/Deposit inform/Deposit-inform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs-web-trading/main-docs.md",
+                "file": "docs-web-trading/Pages/Deposit inform/Deposit-inform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs-web-trading/main-docs.md"
+                "file": "docs-web-trading/Pages/Deposit inform/Deposit-inform.md"
               }
             }
           }
@@ -142,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44eb469d95c32a85",
+  "active": "7839ff046ce4fedf",
   "lastOpenFiles": [
-    "docs-web-trading/Pages/Deposit inform/Deposite-inform.md",
     "docs-web-trading/main-docs.md",
-    "docs-web-trading/Pages/Market Cap/market-cap-layout.md",
-    "docs-web-trading/Pages/Market View/market-view.md",
-    "docs-web-trading/Pages/Alert/Alert.md",
-    "docs-web-trading/Pages/Order history/Order History.md",
-    "docs-web-trading/Pages/Right Information/Right Informations.md",
-    "docs-web-trading/Pages/Right Information/images/Right Informations.png",
-    "docs-web-trading/Pages/Expected right on Portfolio/Expected right on Portfolio.md",
-    "docs-web-trading/Pages/Internal Stock Transfer/Internal Stock Transfer.md"
+    "docs-web-trading/Pages/Deposit inform/Deposit-inform.md",
+    "docs-web-trading/Pages/Online Banking (BIDV)/Online Banking (BIDV).md",
+    "docs-web-trading/Pages/Internal Transfer/Interal Transfer.md",
+    "docs-web-trading/Pages/Pay in Advanced/Pay in Advanced.md",
+    "docs-web-trading/Pages/Withdrawal request/Withdrawal Request.md",
+    "nháp.md",
+    "docs-web-trading/Pages/Withdrawal request/images/Transaction history.png",
+    "docs-web-trading/Pages/Withdrawal request/images/Withdrawal request.png",
+    "docs-web-trading/Pages/Pay in Advanced/images/Cash advance sales history.png"
   ]
 }
