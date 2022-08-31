@@ -5,7 +5,7 @@ Change log:
 | Index | Date | Version | Note | PIC |
 | --- | --- | --- | --- | --- |
 | 1 | 27/08/2022 | 0.0.1 | Init Document <br> Folder Structure for documents <br> Docs rules | Dũng & Tiên |
-| 2 |  |  |  | |
+| 2 | 31/08/2022 | 0.0.2 | Stock Transaction <br> Cash Transaction <br> Portfolio Management <br> SSV Service | Tien|
 | 3 |  |  |  | |
 | 4 |  |  |  | |
 
