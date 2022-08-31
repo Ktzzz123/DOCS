@@ -93,11 +93,11 @@ Every thing run on background
 	- [x] [Confirm your Order](Pages/Confirm%20your%20Order/Confirm%20your%20Order.md)
 	
 	***SSV Service***
-	- [ ] [User guide](Pages/User%20guide/User%20guide.md)
-	- [ ] Margin Stock List
-	- [ ] Research Center
-	- [ ] Registation of Selling Oddlot
-	- [ ] Advisory
+	- [x] [User guide](Pages/User%20guide/User%20guide.md)
+	- [x] [Margin Stock List](Pages/Margin%20Stock%20List/Margin%20Stock%20List.md)
+	- [x] [Research Center](Pages/Research%20Center/Research%20Center.md)
+	- [x] [Registration of Selling Odd lot](Pages/Registration%20of%20Selling%20Odd%20lot/Registration%20of%20Selling%20Odd%20lot.md)
+	- [x] [Advisory](Pages/Advisory/Advisory.md)
 	
 3. **Others Services (Features)** 
 	- [ ] Quick Order
