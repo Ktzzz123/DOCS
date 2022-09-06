@@ -16,6 +16,18 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "2b57796159ae06be",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs-web-trading/Pages/Config System/Config Notification/Config Notification.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -132,15 +144,15 @@
   },
   "active": "7839ff046ce4fedf",
   "lastOpenFiles": [
-    "docs-web-trading/Pages/Login - Register/Register/Register.md",
+    "docs-web-trading/Pages/Config System/Config Notification/Config Notification.md",
     "docs-web-trading/main-docs.md",
-    "docs-web-trading/Pages/Login - Register/Component/Images/Event information.png",
-    "docs-web-trading/Pages/Login - Register/Register/images/Register password form.png",
-    "docs-web-trading/Pages/Login - Register/Register/images/Register form.png",
-    "docs-web-trading/Pages/Market View/market-view.md",
-    "docs-web-trading/Pages/Login - Register/Login/Login.md",
-    "docs-web-trading/Pages/Login - Register/Component/events informations.md",
-    "docs-web-trading/Pages/Login - Register/Login - Register.md",
-    "docs-web-trading/Pages/Login - Register/Login/images/Orther login method.png"
+    "docs-web-trading/Pages/Config System/Config Hotkey/Config Hotkey.md",
+    "docs-web-trading/Pages/Config System/Config Notification/images/Config Notification.png",
+    "docs-web-trading/Pages/Config System/Config System.md",
+    "docs-web-trading/Pages/Config System/images/config system.png",
+    "docs-web-trading/Pages/Config System/images/Config system.png",
+    "docs-web-trading/Pages/Config System/Config Hotkey/images/Config Hotkey.png",
+    "docs-web-trading/Pages/Config System/Config Session/Config Session.md",
+    "docs-web-trading/Pages/Config System/Config Price-Unit/Config Price-Unit.md"
   ]
 }

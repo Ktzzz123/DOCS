@@ -110,10 +110,11 @@ Every thing run on background
 		- [x] [Change Trading Password](Pages/Change%20Trading%20Password/Change%20Trading%20Password.md)
 		- [x] [Forgot Trading Password](Pages/Forgot%20Trading%20Password/Forgot%20Trading%20Password.md)
 	
-	- [ ] Config System 
-		- [ ] Config Price/Unit
-		- [ ] Config Session
-		- [ ] Config Hotkey 
+	- [x] [Config System](Pages/Config%20System/Config%20System.md)
+		- [x] [Config Notification](Pages/Config%20System/Config%20Notification/Config%20Notification.md)
+		- [x] [Config Price/Unit](Pages/Config%20System/Config%20Price-Unit/Config%20Price-Unit.md)
+		- [x] [Config Session](Pages/Config%20System/Config%20Session/Config%20Session.md)
+		- [x] [Config Hotkey](Pages/Config%20System/Config%20Hotkey/Config%20Hotkey.md)
 
 
 ---
