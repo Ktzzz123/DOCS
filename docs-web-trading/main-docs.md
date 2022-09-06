@@ -51,7 +51,9 @@ Every thing run on background
 
 1. **Fullpage** 
 	- [x] [Homepage - PriceBoard](Pages/HomePage%20-%20Priceboard/homepage-priceboard.md.md)
-	- [ ] Login - Register
+	- [x] [Login - Register](Pages/Login%20-%20Register/Login%20-%20Register.md)
+		- [x] [Login](Pages/Login%20-%20Register/Login/Login.md)
+		- [x] [Register](Pages/Login%20-%20Register/Register/Register.md)
 	- [ ] Tradingview
 
 2. **Pages - Service (From Menu)**
@@ -61,7 +63,7 @@ Every thing run on background
 	- [x] [Market Cap](Pages/Market%20Cap/market-cap-layout.md)
 	- [x] [Market Foreigner Trade](Pages/Foreginer%20Trade/foreginer-trade.md)
 	- [x] [Market Liquidity](Pages/Market%20Liquidity/market-liquidity.md)
-	- [ ] News - Events
+	- [x] [News - Events](Pages/News%20-%20Events/News%20-%20Events.md)
 
 	***Stock Transaction***
 	- [x] [Order](Pages/Normal%20Oder/normal-order.md)
@@ -85,7 +87,7 @@ Every thing run on background
 	
 	***Portfolio Management***
 	- [x] [Portfolio](Pages/Portfolio/Portfolio.md)
-	- [ ] Profit loss caculator
+	- [ ] Profit loss caculator (this section will be restart in the future)
 	- [x] [Margin Extension](Pages/Margin%20Extension/Margin%20Extension.md)
 	- [x] [Margin Repayment](Pages/Margin%20Repayment/Margin%20Repayment.md)
 	- [x] [Performance](Pages/Performance/Performance.md)
@@ -98,16 +100,16 @@ Every thing run on background
 	- [x] [Research Center](Pages/Research%20Center/Research%20Center.md)
 	- [x] [Registration of Selling Odd lot](Pages/Registration%20of%20Selling%20Odd%20lot/Registration%20of%20Selling%20Odd%20lot.md)
 	- [x] [Advisory](Pages/Advisory/Advisory.md)
+	- [x] [Bank Account Management](Pages/Bank%20Account%20Management/Bank%20Account%20Management.md)
+1. **Others Services (Features)** 
+	- [x] [Quick Order](Pages/Quick%20Order/Quick%20Order.md)
+	- [x] [Feedback](Pages/Feedback/Feedback.md)
+	- [x] [Account settings](Pages/Account%20Settings/Account%20settings.md)
+		- [x] [Account Information](Pages/Account%20Information/Account%20Information.md)
+		- [x] [Change Login Password](Pages/Change%20Login%20Password/Change%20Login%20Password.md)
+		- [x] [Change Trading Password](Pages/Change%20Trading%20Password/Change%20Trading%20Password.md)
+		- [x] [Forgot Trading Password](Pages/Forgot%20Trading%20Password/Forgot%20Trading%20Password.md)
 	
-3. **Others Services (Features)** 
-	- [ ] Quick Order
-	- [ ] Feedback
-	- [ ] Account Settings
-		- [ ] Account Infomation
-		- [ ] Change Login Password
-		- [ ] Change Trading Password
-		- [ ] Forgot Trading Password
-		- [ ] Bank Account Management
 	- [ ] Config System 
 		- [ ] Config Price/Unit
 		- [ ] Config Session

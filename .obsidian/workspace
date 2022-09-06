@@ -130,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07ad531e0d711a5e",
+  "active": "7839ff046ce4fedf",
   "lastOpenFiles": [
-    "docs-web-trading/Pages/Advisory/Advisory.md",
+    "docs-web-trading/Pages/Login - Register/Register/Register.md",
     "docs-web-trading/main-docs.md",
-    "docs-web-trading/Pages/Advisory/images/Report request.png",
-    "docs-web-trading/Pages/Advisory/images/Meeting arrangement.png",
-    "Registration of Selling Odd lot.png",
-    "docs-web-trading/Pages/Registration of Selling Odd lot/Registration of Selling Odd lot.md",
-    "nháp.md",
-    "docs-web-trading/Pages/Research Center/Research Center.md",
-    "docs-web-trading/Pages/Margin Stock List/Margin Stock List.md",
-    "docs-web-trading/Pages/Margin Stock List/images/Margin Stock List.png"
+    "docs-web-trading/Pages/Login - Register/Component/Images/Event information.png",
+    "docs-web-trading/Pages/Login - Register/Register/images/Register password form.png",
+    "docs-web-trading/Pages/Login - Register/Register/images/Register form.png",
+    "docs-web-trading/Pages/Market View/market-view.md",
+    "docs-web-trading/Pages/Login - Register/Login/Login.md",
+    "docs-web-trading/Pages/Login - Register/Component/events informations.md",
+    "docs-web-trading/Pages/Login - Register/Login - Register.md",
+    "docs-web-trading/Pages/Login - Register/Login/images/Orther login method.png"
   ]
 }
